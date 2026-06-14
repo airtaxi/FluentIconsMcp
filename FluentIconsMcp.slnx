@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FluentIconsMcp/FluentIconsMcp.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/FluentIconsMcp.Tests/FluentIconsMcp.Tests.csproj" />
+  </Folder>
+</Solution>
