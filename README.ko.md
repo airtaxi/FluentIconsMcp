@@ -5,7 +5,7 @@
 [![Pack and Publish](https://github.com/airtaxi/FluentIconsMcp/actions/workflows/pack-and-publish.yml/badge.svg)](https://github.com/airtaxi/FluentIconsMcp/actions/workflows/pack-and-publish.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.txt)
 
-[English](README.md) | 한국어
+🌐 [English](README.md) | 한국어
 
 fluent-icons-mcp는 [WinUI Gallery](https://github.com/microsoft/WinUI-Gallery)의 Windows Fluent Icons 메타데이터를 stdio MCP 서버로 노출하는 .NET 글로벌 도구입니다. 로컬 코딩 에이전트가 이름, 태그, 코드로 아이콘 코드를 검색할 수 있습니다.
 

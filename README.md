@@ -5,7 +5,7 @@
 [![Pack and Publish](https://github.com/airtaxi/FluentIconsMcp/actions/workflows/pack-and-publish.yml/badge.svg)](https://github.com/airtaxi/FluentIconsMcp/actions/workflows/pack-and-publish.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.txt)
 
-English | [한국어](README.ko.md)
+🌐 English | [한국어](README.ko.md)
 
 fluent-icons-mcp is a .NET global tool that exposes Windows Fluent Icons metadata from [WinUI Gallery](https://github.com/microsoft/WinUI-Gallery) through a stdio MCP server. Local coding agents can call it to search icon codes by name, tags, or code.
 
